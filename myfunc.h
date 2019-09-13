@@ -1,4 +1,4 @@
 #include <iostream>
 
 
-std::string func()
+std::string func();
